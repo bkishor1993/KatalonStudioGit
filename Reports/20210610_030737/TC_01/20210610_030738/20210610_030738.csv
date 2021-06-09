@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_01,,,,2021-06-10 03:07:52,2021-06-10 03:07:55,3.488s,PASSED
+,,,,,,,
+Test Cases/Test1/Login,,,,2021-06-10 03:07:54,2021-06-10 03:07:55,1.159s,PASSED
+"println(""Hello"")",,,,2021-06-10 03:07:55,2021-06-10 03:07:55,0.017s,PASSED

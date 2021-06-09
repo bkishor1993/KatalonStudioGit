@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_01,Chrome 91.0.4472.77,,,2021-06-10 03:30:03,2021-06-10 03:30:14,10.822s,PASSED
+,,,,,,,
+Test Cases/Test1/Login,Chrome 91.0.4472.77,,,2021-06-10 03:30:05,2021-06-10 03:30:14,8.523s,PASSED
+"println(""HelloNew"")",Chrome 91.0.4472.77,,,2021-06-10 03:30:06,2021-06-10 03:30:06,0.013s,PASSED
+"openBrowser(""https://www.google.co.in/"")",Chrome 91.0.4472.77,,,2021-06-10 03:30:06,2021-06-10 03:30:12,5.814s,PASSED
+maximizeWindow(),Chrome 91.0.4472.77,,,2021-06-10 03:30:12,2021-06-10 03:30:12,0.358s,PASSED
+closeBrowser(),Chrome 91.0.4472.77,,,2021-06-10 03:30:12,2021-06-10 03:30:14,1.175s,PASSED

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_01" time="11.36" tests="1" failures="0" errors="0">
+   <testsuite name="TC_01" tests="1" failures="0" errors="0" time="11.36" skipped="0" timestamp="2021-06-10 03:30:03" hostname="Braj - DESKTOP-7F86NCR" id="Test Suites/TC_01">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Braj\\git\\KatalonStudioGit\\Reports\\20210610_032948\\TC_01\\20210610_032949"/>
+         <property name="logFiles" value="C:\\Users\\Braj\\git\\KatalonStudioGit\\Reports\\20210610_032948\\TC_01\\20210610_032949\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Braj - DESKTOP-7F86NCR"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.0.0.208"/>
+         <property name="browser" value="Chrome 91.0.4472.77"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="ac9f57d8a1979c6f9121c8bb8b37abf1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test1/Login" time="8.523" classname="Test Cases/Test1/Login" status="PASSED">
+         <system-out><![CDATA[2021-06-10 03:30:05 - [TEST_CASE][PASSED] - Test Cases/Test1/Login: Test Cases/Test1/Login
+
+2021-06-10 03:30:06 - [TEST_STEP][PASSED] - println("HelloNew"): null
+
+2021-06-10 03:30:06 - [TEST_STEP][PASSED] - openBrowser("https://www.google.co.in/"): Browser is opened with url: 'https://www.google.co.in/'
+
+2021-06-10 03:30:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-06-10 03:30:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-06-10 03:30:12 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.google.co.in/'
+
+2021-06-10 03:30:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-06-10 03:30:12 - [MESSAGE][PASSED] - Current window maximized
+
+2021-06-10 03:30:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-06-10 03:30:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-06-10 03:30:03 - [TEST_SUITE][PASSED] - TC_01: Test Cases/Test1/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

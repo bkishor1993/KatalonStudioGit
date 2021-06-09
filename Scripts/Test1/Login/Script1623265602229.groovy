@@ -18,3 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 println 'Hello'
+WebUI.openBrowser('https://www.google.co.in/')
+WebUI.maximizeWindow()
+WebUI.closeBrowser()
